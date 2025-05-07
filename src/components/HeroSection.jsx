@@ -43,7 +43,7 @@ export default function HeroSection() {
                 </Button>
               </a>
               <a href="#services">
-                <Button variant="outline" className="text-lg px-8 py-6 text-white border-white hover:bg-white/10 rounded-xl">
+               <Button className="bg-black hover:bg-black text-white text-lg px-8 py-6 rounded-xl">
                   לשירותים שלנו
                   <ArrowLeft className="h-5 w-5 mr-2" />
                 </Button>
